@@ -4,7 +4,7 @@ Senior QA Engineer portfolio | Test planning, strategy, bug triage, risk-based t
 # Adrianna Golak · QA Engineer Portfolio
 
 9+ years in software quality. I've worked across fintech, e-commerce and
-edtech - building QA processes from scratch, managing test 
+edtech, building QA processes from scratch, managing test 
 repositories, triaging bugs, and making sure releases don't keep 
 engineers up at night. 
 
