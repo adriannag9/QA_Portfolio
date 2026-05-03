@@ -37,16 +37,16 @@ the domain. Most comfortable when I can dig deep and ask the right questions.
 
 ## Skills & Tools
 
-**Test Management**
+**Test Management**<br/>
 Jira · Agile Test · Zephyr · TestRail · Confluence
 
-**Testing**
-Functional & regression · API (Postman, HTTP Toolkit) · Mobile (iOS/Android)
+**Testing**<br/>
+Functional & regression · API (Postman, HTTP Toolkit) · Mobile (iOS/Android) · 
 Web & desktop · UI/UX · Cross-browser · CI/CD monitoring
 
-**Other**
-Git · GitHub · SourceTree · Miro · Figma · VisualParadigm
-BrowserStack · LambdaTest · Cypress (fundamentals)
+**Other**<br/>
+Git · GitHub · SourceTree · Miro · Figma · VisualParadigm · 
+BrowserStack · LambdaTest · Cypress (fundamentals) · 
 AI-assisted testing & productivity tools
 
 ---
@@ -65,7 +65,7 @@ AI-assisted testing & productivity tools
 | Section | Link | What's inside |
 | --- | --- | --- |
 | 🗂️ Test Plans | [Test_Plans/](./Test_Plans) | Scope, strategy, risks, entry/exit criteria |
-| 🧪 Test Cases | [Test_Cases/](./Test_Cases) | Functional test cases – patient management, scheduling, access control |
+| 🧪 Test Cases | [Test_Cases/](./Test_Cases) | Functional test cases - patient management, scheduling, access control |
 | 📋 Bug Reports | [Bug_Reports/](./Bug_Reports) | Structured reports with steps, severity, priority |
 | ✅ Checklists | [Checklists/](./Checklists) | Release, regression, accessibility |
 | 📊 Test Reports | [Test_Reports/](./Test_Reports) | Execution summaries and QA metrics |
@@ -85,4 +85,4 @@ AI-assisted testing & productivity tools
 
 ## License
 
-MIT — free to use with attribution.
+MIT - free to use with attribution.
